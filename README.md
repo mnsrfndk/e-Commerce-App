@@ -1,4 +1,5 @@
 # E-Commerce-App
+## [Online Demo](https://my-marketplace.netlify.app/)
 ## Description
 e-Commerce-App is an Angular 14 and Node.js app that uses Tailwind and Express.js. It is an e-commerce application that allows users to browse products from the FakeStore API, filter products by category, sort products by ascending or descending order, and customize the number of products displayed per row. Users can also add products to their cart, increment/decrement the quantity of products in their cart, and checkout using Stripe.
 

@@ -44,5 +44,3 @@ e-Commerce-App uses the following Angular Material modules:
 <li>MatBadgeModule</li>
 <li>MatSnackBarModule</li>
 </ul>
-
-<iframe src="https://giphy.com/embed/4CAKLR09oQ8oBTug4p" width="480" height="278" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/4CAKLR09oQ8oBTug4p">via GIPHY</a></p>
